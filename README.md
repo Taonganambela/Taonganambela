@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taonga Nambela</h1>
-<h3 align="center">A passionate software developer from Zambia</h3>
+<h3 align="center">A passionate Computer Engineer from Zambia</h3>
 
 
 - 💬 Ask me about **anything**
